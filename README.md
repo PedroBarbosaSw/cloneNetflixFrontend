@@ -1,3 +1,9 @@
+# Site Example
+
+
+[![ Video Netflix clone](http://img.youtube.com/vi/SoP2RP5eGs4/0.jpg)](http://www.youtube.com/watch?v=SoP2RP5eGs4 "Netflix Clone Video")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
